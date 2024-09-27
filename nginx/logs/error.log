@@ -1,0 +1,50 @@
+2024/09/22 15:33:13 [notice] 15524#32492: signal process started
+2024/09/22 16:28:58 [emerg] 38272#15164: duplicate location "/" in C:\nginx/conf/nginx.conf:59
+2024/09/22 16:37:21 [emerg] 2116#25588: duplicate location "/50x.html" in C:\nginx/conf/nginx.conf:70
+2024/09/22 17:01:41 [notice] 22752#9808: signal process started
+2024/09/22 17:14:25 [notice] 31772#23004: signal process started
+2024/09/22 17:20:09 [notice] 37532#18280: signal process started
+2024/09/22 17:24:15 [notice] 26540#35596: signal process started
+2024/09/22 17:24:30 [error] 9160#31600: *1 directory index of "E:\angularJs\projectone\dist\projectone/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/23 16:44:39 [error] 35440#8872: *6 directory index of "E:\angularJs\projectone\dist\projectone/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/23 18:35:37 [notice] 2032#38600: signal process started
+2024/09/23 18:36:14 [error] 25624#17792: *1 directory index of "E:/angularJs/projectone/dist/projectone/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/09/23 18:40:03 [notice] 34348#11788: signal process started
+2024/09/23 19:15:28 [notice] 26080#31540: signal process started
+2024/09/23 19:19:13 [notice] 13928#24024: signal process started
+2024/09/23 19:19:13 [error] 13928#24024: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/23 19:23:34 [notice] 12632#32520: signal process started
+2024/09/23 19:30:05 [notice] 25936#25392: signal process started
+2024/09/23 19:33:43 [notice] 4956#33108: signal process started
+2024/09/23 19:33:43 [error] 4956#33108: OpenEvent("Global\ngx_stop_18028") failed (5: Access is denied)
+2024/09/23 19:33:49 [notice] 29872#8840: signal process started
+2024/09/23 19:33:49 [error] 29872#8840: OpenEvent("Global\ngx_stop_18028") failed (5: Access is denied)
+2024/09/23 22:28:08 [notice] 8276#22612: signal process started
+2024/09/23 22:28:08 [notice] 6732#37912: signal process started
+2024/09/23 22:28:08 [error] 6732#37912: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/24 14:53:14 [notice] 22748#17752: signal process started
+2024/09/24 14:54:04 [notice] 31632#29256: signal process started
+2024/09/26 00:00:33 [notice] 3588#29772: signal process started
+2024/09/26 00:01:58 [notice] 33448#23908: signal process started
+2024/09/26 00:28:37 [notice] 19280#19408: signal process started
+2024/09/26 14:23:11 [notice] 22316#23144: signal process started
+2024/09/26 14:23:11 [notice] 36532#40888: signal process started
+2024/09/26 14:23:11 [error] 36532#40888: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 14:24:10 [notice] 12016#30660: signal process started
+2024/09/26 14:24:10 [error] 12016#30660: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 14:24:16 [notice] 16100#29736: signal process started
+2024/09/26 14:24:16 [error] 16100#29736: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 14:27:41 [notice] 33044#32092: signal process started
+2024/09/26 14:27:41 [error] 33044#32092: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 15:06:31 [notice] 32540#18184: signal process started
+2024/09/26 15:06:31 [error] 32540#18184: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 15:08:05 [notice] 10700#28264: signal process started
+2024/09/26 15:08:05 [error] 10700#28264: CreateFile() "c:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/09/26 15:15:14 [notice] 2408#39496: signal process started
+2024/09/26 15:15:14 [error] 2408#39496: OpenEvent("Global\ngx_stop_18232") failed (5: Access is denied)
+2024/09/26 15:15:25 [notice] 21008#20252: signal process started
+2024/09/26 15:15:25 [error] 21008#20252: OpenEvent("Global\ngx_stop_18232") failed (5: Access is denied)
+2024/09/26 15:17:28 [notice] 38236#1536: signal process started
+2024/09/26 15:17:28 [error] 38236#1536: OpenEvent("Global\ngx_stop_18232") failed (2: The system cannot find the file specified)
+2024/09/26 15:19:49 [notice] 32596#29384: signal process started
+2024/09/26 15:46:41 [notice] 2708#24144: signal process started
